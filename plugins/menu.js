@@ -98,7 +98,7 @@ Cara Tambah XP:
 ╠═〘 Info Bot 〙 ═
 ╠➥ Name : Miqdad Mods
 ╠➥ Coded using *Nano* on Android \\w Termux
-╠➥ Request? Wa.me/62853426364468
+╠➥ Request? Wa.me/6285326364468
 ╠═════
 ║ Advanced:
 ║  > return m
